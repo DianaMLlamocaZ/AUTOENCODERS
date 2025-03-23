@@ -6,6 +6,7 @@ Reducción de la dimensionalidad y uso de la representación codificada para ent
 
 # RESULTADOS:
 Accuracy sin reducción de dimensionalidad: 92.56%
+
 Accuracy con reducción de dimensionalidad: 89.87%
 
 # CONCLUSIONES:
