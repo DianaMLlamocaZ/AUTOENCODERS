@@ -1,2 +1,2 @@
 # AUTOENCODERS
-En este repositorio, almaceno proyectos en donde aplico autoencoders.
+En este repositorio, almaceno proyectos en donde aplico autoencoders a proyectos.
