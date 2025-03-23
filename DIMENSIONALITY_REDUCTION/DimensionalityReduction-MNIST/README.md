@@ -5,9 +5,9 @@ En este proyecto, creé un autoencoder simple basado en una capa completamente c
 Reducción de la dimensionalidad y uso de la representación codificada para entrenar un modelo de clasificación.
 
 # RESULTADOS:
-Accuracy sin reducción de dimensionalidad: 92.56%
+- Accuracy sin reducción de dimensionalidad: 92.56%
 
-Accuracy con reducción de dimensionalidad: 89.87%
+- Accuracy con reducción de dimensionalidad: 89.87%
 
 # CONCLUSIONES:
 1) Al entrenar el modelo en la data sin reducir la dimensionalidad, el clasificador tardó más tiempo en entrenar, debido a la cantidad de dimensiones de cada representación para las imágenes.
