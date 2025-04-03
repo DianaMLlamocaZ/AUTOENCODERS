@@ -5,4 +5,4 @@
 
 
 2. **Denoising images**
-   - [Proyecto Denoising Images MNIST](.DIMENSIONALITY_REDUCTION/ImageDenoising-MNIST): Uso de un autoencoder convolucional para eliminar el ruido presente en las imágenes del dataset MNIST.
+   - [Proyecto Denoising Images MNIST](.IMAGE_DENOISING/ImageDenoising-MNIST): Uso de un autoencoder convolucional para eliminar el ruido presente en las imágenes del dataset MNIST.
