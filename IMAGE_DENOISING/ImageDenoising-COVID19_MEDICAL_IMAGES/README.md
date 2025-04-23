@@ -5,10 +5,10 @@ En este proyecto, creé un autoencoder convolucional para eliminar el ruido gaus
 Denoising Images en tomografías computarizadas de pacientes con Covid 19.
 
 # RESULTADOS:
-
+- 
 
 # CONCLUSIONES:
-1) 
+-  
 
 ----
 
