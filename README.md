@@ -5,5 +5,5 @@
 
 
 2. **Denoising images**
-   - [Proyecto Denoising Images MNIST](./IMAGE_DENOISING/ImageDenoising-MNIST): Uso de un autoencoder convolucional para eliminar el ruido presente en las imágenes del dataset MNIST.
-   - [Proyecto Denoising Images Medical Images](./IMAGE_DENOISING/ImageDenoising-MEDICAL_IMAGES): Implementación de un autoencoder convolucional para eliminar el ruido presente en imágenes médicas.
+   - [Proyecto Denoising Images - MNIST](./IMAGE_DENOISING/ImageDenoising-MNIST): Uso de un autoencoder convolucional para eliminar el ruido presente en las imágenes del dataset MNIST.
+   - [Proyecto Denoising Images - Medical Images](./IMAGE_DENOISING/ImageDenoising-MEDICAL_IMAGES): Implementación de un autoencoder convolucional para eliminar el ruido presente en imágenes médicas.
