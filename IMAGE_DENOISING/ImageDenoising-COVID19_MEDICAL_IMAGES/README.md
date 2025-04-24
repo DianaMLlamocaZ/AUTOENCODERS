@@ -19,13 +19,13 @@ Para obtener los resultados, utilicé dos métricas:
 
 Los valores a continuación representan la media de los valores PNSR en las imágenes de test (sin ruido), sobre las imágenes originadas (reconstruidas), ya sea por el autoencoder o los enfoques tradicionales al compararlas:
 
-### PSNR: IMÁGENES REALES | IMÁGENES DEL AUTOENCODER
+#### PSNR: IMÁGENES REALES | IMÁGENES DEL AUTOENCODER
 * Media de la métrica PSNR en las imágenes de test: 27.053668975830078
 
-### PSNR: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
+#### PSNR: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
 * Media de la métrica PSNR en las imágenes de test: 12.511493682861328
 
-### PSNR: IMÁGENES REALES | IMÁGENES APLICANDO GAUSSIAN BLUR
+#### PSNR: IMÁGENES REALES | IMÁGENES APLICANDO GAUSSIAN BLUR
 * Media de la métrica PSNR en las imágenes de test: 12.655463218688965
 
 ====
