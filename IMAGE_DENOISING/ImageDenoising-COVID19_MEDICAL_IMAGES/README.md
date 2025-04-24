@@ -13,7 +13,7 @@ Para obtener los resultados, utilicé dos métricas:
 
 --
 
-Los valores a continuación representan la media de los valores PNSR en las imágenes de test (sin ruido), sobre las imágenes originadas (reconstruidas) por el autoencoder al compararlas:
+Los valores a continuación representan la media de los valores PNSR en las imágenes de test (sin ruido), sobre las imágenes originadas (reconstruidas), ya sea por el autoencoder o los enfoques tradicionales al compararlas:
 
 ### PSNR: IMÁGENES REALES | IMÁGENES DEL AUTOENCODER
 * Media de la métrica PSNR en las imágenes de test: 27.053668975830078
