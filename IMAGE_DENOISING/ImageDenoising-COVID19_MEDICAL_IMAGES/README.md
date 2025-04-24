@@ -63,5 +63,5 @@ Visualmente, se corrobora lo anterior: las imágenes reconstruidas por el autoen
 ----
 
 # CONCLUSIONES:
--  
+- El autoencoder presentó un mejor performance al realizar el denoising, a las imágenes con ruido, que los otros enfoques.
 
