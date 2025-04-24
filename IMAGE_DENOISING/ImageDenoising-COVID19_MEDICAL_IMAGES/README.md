@@ -30,7 +30,7 @@ Los valores a continuación representan la media de los valores PNSR en las imá
 
 ====
 
-Los valores a continuación representan la media de los valores SSIM en las imágenes de test (sin ruido), sobre las imágenes originadas (reconstruidas), ya sea por el autoencoder o los enfoques tradicionales al compararlas:
+##### Los valores a continuación representan la media de los valores SSIM en las imágenes de test (sin ruido), sobre las imágenes originadas (reconstruidas), ya sea por el autoencoder o los enfoques tradicionales al compararlas:
 
 ### SSIM: IMÁGENES REALES | IMÁGENES DEL AUTOENCODER
 * Media de la métrica PSNR en las imágenes de test: 0.7886712573222626
