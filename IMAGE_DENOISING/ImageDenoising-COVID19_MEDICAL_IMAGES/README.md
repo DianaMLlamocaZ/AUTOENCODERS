@@ -43,7 +43,7 @@ Los valores a continuación representan la media de los valores SSIM en las imá
 
 ====
 
-Así, numéricamente, las métricas sugieren que las imágenes reconstruidas por el autoencoder presentan menos ruido que las imágenes generadas al utilizarse los enfoques tradicionaless. Por lo tanto, el autoencoder realizó un mejor 'denoising' en las imágenes que los otros approaches.
+Así, numéricamente, las métricas sugieren que las imágenes reconstruidas por el autoencoder presentan menos ruido que las imágenes generadas al utilizarse los enfoques tradicionales. Por lo tanto, el autoencoder realizó un mejor 'denoising' en las imágenes que los otros approaches.
 
 ----
 
