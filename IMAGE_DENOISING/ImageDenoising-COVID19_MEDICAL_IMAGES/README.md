@@ -48,6 +48,12 @@ Así, numéricamente, las métricas sugieren que las imágenes reconstruidas por
 ----
 
 # RESULTADOS VISUALES:
+* Fila 1: Imágenes con ruido
+* Fila 2: Imágenes sin ruido
+* Fila 3: Imágenes donde aplico el autoencoder para remover el ruido
+* Fila 4: Imágenes donde aplico el kernel GaussianBlur para remover el ruido
+* Fila 5: Imágenes donde aplico el kernel MedianBlur para remover el ruido
+
 ![ResultadoFinal](./IMÁGENES/ImagenAE.JPG)
 
 ----
