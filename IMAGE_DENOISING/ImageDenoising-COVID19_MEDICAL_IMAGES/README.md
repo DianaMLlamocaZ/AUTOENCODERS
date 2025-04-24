@@ -41,6 +41,8 @@ Los valores a continuación representan la media de los valores SSIM en las imá
 #### SSIM: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
 * Media de la métrica PSNR en las imágenes de test: 0.6412973922621209
 
+Así, numéricamente, las métricas sugieren que las imágenes generadas por el autoencoder presentan menos ruidos que utilizando los enfoques tradicionaless. Por lo tanto, el autoencoder realizó un mejor 'denoising' en las imágenes que los otros approaches.
+
 ----
 
 # RESULTADOS VISUALES:
