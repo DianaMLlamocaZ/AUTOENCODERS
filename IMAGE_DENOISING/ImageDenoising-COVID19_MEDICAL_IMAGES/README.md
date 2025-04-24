@@ -48,6 +48,7 @@ Así, numéricamente, las métricas sugieren que las imágenes reconstruidas por
 ----
 
 # RESULTADOS VISUALES:
+![ResultadoFinal](IMAGE_DENOISING/ImageDenoising-COVID19_MEDICAL_IMAGES/IMÁGENES/ImagenAE.JPG)
 
 ----
 
