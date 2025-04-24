@@ -6,7 +6,8 @@ Con el objetivo de entender el propósito del denoising autoencoder, utilicé ot
 Denoising Images en tomografías computarizadas de pacientes con Covid 19 utilizando un denoising autoencoder convolucional.
 
 # RESULTADOS:
-Para obtener los resultados, usé dos métricas:
+Para obtener los resultados, utilicé dos métricas:
+
 PSNR y SSIM.
 
 
