@@ -7,8 +7,8 @@ Denoising Images en tomografías computarizadas de pacientes con Covid 19 utiliz
 
 # RESULTADOS:
 Para obtener los resultados, utilicé dos métricas:
-
-PSNR y SSIM.
+* PSNR:
+* SSIM: 
 
 
 # CONCLUSIONES:
