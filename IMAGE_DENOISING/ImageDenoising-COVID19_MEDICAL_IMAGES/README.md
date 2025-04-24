@@ -39,8 +39,11 @@ Los valores a continuación representan la media de los valores SSIM en las imá
 ### SSIM: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
 * Media de la métrica PSNR en las imágenes de test: 0.6412973922621209
 
+----
+
 # RESULTADOS VISUALES:
 
+----
 
 # CONCLUSIONES:
 -  
