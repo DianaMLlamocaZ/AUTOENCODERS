@@ -21,6 +21,22 @@ Los valores a continuación representan la media de los valores PNSR en las imá
 ### PSNR: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
 * Media de la métrica PSNR en las imágenes de test: 12.511493682861328
 
+### PSNR: IMÁGENES REALES | IMÁGENES APLICANDO GAUSSIAN BLUR
+* Media de la métrica PSNR en las imágenes de test: 12.655463218688965
+
+--
+
+Los valores a continuación representan la media de los valores SSIM en las imágenes de test (sin ruido), sobre las imágenes originadas (reconstruidas), ya sea por el autoencoder o los enfoques tradicionales al compararlas:
+
+### SSIM: IMÁGENES REALES | IMÁGENES DEL AUTOENCODER
+* Media de la métrica PSNR en las imágenes de test: 0.7886712573222626
+
+### SSIM: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
+* Media de la métrica PSNR en las imágenes de test: 0.6465682907408488
+
+### SSIM: IMÁGENES REALES | IMÁGENES APLICANDO MEDIAN BLUR
+* Media de la métrica PSNR en las imágenes de test: 0.6412973922621209
+
 # CONCLUSIONES:
 -  
 
