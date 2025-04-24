@@ -56,6 +56,10 @@ Así, numéricamente, las métricas sugieren que las imágenes reconstruidas por
 
 ![ResultadoFinal](./IMÁGENES/ImagenAE.JPG)
 
+====
+
+Visualmente, se corrobora lo anterior: las imágenes reconstruidas por el autoencoder presentan menos ruido que las imágenes generadas al utilizarse los enfoques Gaussian Blur y Median Blur.
+
 ----
 
 # CONCLUSIONES:
